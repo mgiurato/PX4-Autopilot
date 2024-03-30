@@ -149,6 +149,7 @@ set(models
 	glider
 	if750a
 	iris
+	iris_camera
 	iris_ctrlalloc
 	iris_dual_gps
 	iris_foggy_lidar
