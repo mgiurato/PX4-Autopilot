@@ -181,6 +181,7 @@ set(models
 
 set(worlds
 	none
+	asphalt
 	baylands
 	empty
 	ksql_airport
