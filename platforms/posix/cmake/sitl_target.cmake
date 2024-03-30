@@ -185,6 +185,7 @@ set(worlds
 	asphalt
 	baylands
 	empty
+	obstacles
 	ksql_airport
 	mcmillan_airfield
 	sonoma_raceway
