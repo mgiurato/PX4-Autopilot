@@ -12,4 +12,4 @@
 set MIXER quad_w
 
 param set COM_RCL_EXCEPT 6
-param set COM_RC_IN_MODE 4
+param set COM_RC_IN_MODE 1
